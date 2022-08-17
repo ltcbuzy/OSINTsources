@@ -7,7 +7,7 @@ We use some of these sources in our Digital Risk Management Platform [SMC M](htt
 
 If you find a non-working link or miss a source please report it via an issue or via mail to code(@)ltcbuzy
 
-![AWARE7](https://media-exp1.licdn.com/dms/image/C4D1BAQHu2w36qzQFJw/company-background_10000/0?e=1581775200&v=beta&t=OVuo0WBH_7Zmc0yP9Q4fqSSuThKKYa6c_B8r0_9Hy3o)
+![Media Expl]([https://media-exp1.licdn.com/dms/image/C4D1BAQHu2w36qzQFJw/company-background_10000/0?e=1581775200&v=beta&t=OVuo0WBH_7Zmc0yP9Q4fqSSuThKKYa6c_B8r0_9Hy3o](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&docid=aAYqHOrOHm23uM&tbnid=rNZhR4JeSoMETM:&ved=0CAYQjRw&url=https://www.socialmediacore.com/5-proven-strategies-to-build-your-social-media-following-from-scratch))
 
 # Contents
 * [General Search](#general-search)
