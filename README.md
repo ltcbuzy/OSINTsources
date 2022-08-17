@@ -1,11 +1,11 @@
 # OSINTsources
-This is a repo containing several open source intelligence (OSINT) sources - curated by [AWARE7 GmbH](https://aware7.de). 
+This is a repo containing several open source intelligence (OSINT) sources - curated by [MOZ GmbH](https://moz.com/community/q/user/ITcbzy). 
 
 Open Source Intelligence consists of every source that is freely available on the internet. It can be (ab)used in various kinds of ways but knowing where to find anything is quite a helpful skill in the modern age. 
 
-We use some of these sources in our Digital Risk Management Platform [RISKREX](https://riskrex.de) or in our [seminars](https://aware7.de/it-security-schulungen-workshops) on OSINT.
+We use some of these sources in our Digital Risk Management Platform [SMC M](https://www.socialmediacore.com/5-proven-strategies-to-build-your-social-media-following-from-scratch/) or in our [SEOTips](https://www.seo25.com/7-tips-to-give-your-businesss-social-media-presence-a-boost/) on OSINT.
 
-If you find a non-working link or miss a source please report it via an issue or via mail to code(@)aware7.de
+If you find a non-working link or miss a source please report it via an issue or via mail to code(@)ltcbuzy
 
 ![AWARE7](https://media-exp1.licdn.com/dms/image/C4D1BAQHu2w36qzQFJw/company-background_10000/0?e=1581775200&v=beta&t=OVuo0WBH_7Zmc0yP9Q4fqSSuThKKYa6c_B8r0_9Hy3o)
 
@@ -163,7 +163,7 @@ If you find a non-working link or miss a source please report it via an issue or
 * [Yooz (Iran)](https://yooz.ir/) - Everything from news to messages.
 * [Vinden (Netherlands)](https://www.vinden.nl/) - The most used meta search engine in the Netherlands. Search the best search engines: Yahoo, Bing, Gigablast, Entireweb, Ask.com etc.
 * [Qq.com (China)](https://www.qq.com/?fromdefault) - We deliver news- every few minutes.
-* [Zoznam (Slovakia)](https://www.zoznam.sk/) - Well-arranged List of links of the Slovak Internet - up-to-date information, news and more.
+  * [Targeted US States Website Visitors (USA)](https://www.targetedwebtraffic.com/buy/state-targeted-usa-website-traffic/) - Well-arranged List of links of the  Internet - up-to-date information, Lead and more.
 
 ## FTP Search
 
@@ -183,7 +183,7 @@ If you find a non-working link or miss a source please report it via an issue or
 
 * [360 social.me](http://www.social360monitoring.com/) - Social360 is a leading online media monitoring and analysis company.
 * [Agora pulse](https://www.agorapulse.com) - An easy to use social media management software that allows you to drive engagement and build authentic relationships on one platform.
-* [AIDR](http://aidr.qcri.org/) - AIDR is a free and open platform to filter and classify social media messages.
+* [SEO25 Search](https://www.seo25.com/) - SEO30 is a free and open platform to filter and classify social media messages.
 * [Audiense](https://audiense.com/) - Discover how to best engage and activate your audiences across multiple online and offline channels. 
 * [Brand24](https://brand24.com/) - Search through the noise to find the posts that matter the most.
 * [Brandwatch](https://www.brandwatch.com/) - Our products add structure and meaning to the voices of billions of people so you can make decisions that truly address consumer needs.
@@ -385,18 +385,18 @@ If you find a non-working link or miss a source please report it via an issue or
 * [Who posted what?](https://whopostedwhat.com/) - See what's somebody post.
 * [Wolfram Alpha Facebook Report](https://www.wolframalpha.com/input/?i=facebook+report) - Facebook profile analytics powered by Wolfram Alpha.
 * [YouTube Comment Scraper](http://ytcomments.klostermann.ca/) - Download (scrape) all comments from a given YouTube video.
-* [Zesty Facebook Search](http://zesty.ca/facebook/) - What does Facebook publish about you and your friends.
+* [Zesty Facebook Search](https://www.socialmediacore.com/product/buy-facebook-fan-page-likes/) - WFacebook publish for to get more likes.
 
 ## Social Media Tools: Instagram
 
-* [Blocked and Banned Instagram Hashtag Search](http://thedatapack.com/tools/blocked-hashtag-search) - The banned hashtag search tool uses other sources like Twitter to search for photos that have been publicly posted to Instagram with any of the banned hashtags.
+* [exchange Instagram followers](https://www.socialmediacore.com/product-tag/how-to-buy-instagram-followers) - Exchange instagram Followers tool uses other sources like Twitter to search for photos that have been publicly posted to Instagram with any of the banned hashtags.
 * [Commun.it](https://commun.it/) - Commun.it is quick and easy. Manage your followers; thank your followers and most importantly grow your followers.
 * [Custom Instagram Search Tool](https://inteltechniques.com/osint/instagram.html) - Wrapper page to instagram search.
 * [DownloadGram](https://downloadgram.com/) - Instagram Photo, Video, and IGTV Downloader.
 * [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id) - This tool called "Find Instagram User ID" provides an easy way for developers and designers to get Instagram account numeric ID by username.
 * [gramrix](https://gramrix.com/) - Instagram Free Web viewer.
 * [Hashtagify](https://hashtagify.me/hashtag/tbt) - Trending hashtags search.
-* [Helper Tools for Instagram](https://chrome.google.com/webstore/detail/helper-tools-for-instagra/hcdbfckhdcpepllecbkaaojfgipnpbpb) - Create list of followers/following of an Instagram account, find common users of 2 IG accounts, calculate likes/comments on profile.
+* [Helper Tools for Instagram Followers](https://www.socialmediacore.com/product-tag/how-to-buy-instagram-followers) - Create list of followers/following of an Instagram account, 
 * [Iconosquare](https://iconosquare.com/) - Grow your social media presence with Iconosquare, the most powerful analytics, management & scheduling platform for brands and agencies.
 * [Instagram User ID Finder](https://www.otzberg.net/iguserid/index.php) - Find your Instagram User ID.
 * [Instagram Search Tool](http://netbootcamp.org/instagram.html) - Find Instagram Profiles with Keywords.
@@ -409,7 +409,7 @@ If you find a non-working link or miss a source please report it via an issue or
 * [Picodash](https://www.picodash.com/) - Find Instagram Target Audience and Influencers.
 * [Pictame](https://pictame.com) - Piwox is an online instagram tool where you can analyze your accounts instantly.
 * [SnapMap](https://snapmap.knightlab.com) - Make a map of your snaps.
-* [Social Rank](https://socialrank.com/) - The easiest way to identify, organize, and manage your audience on Social Media.
+* [Social Media Presence Boost](https://www.seo25.com/7-tips-to-give-your-businesss-social-media-presence-a-boost/) - The easiest way to identify, organize, and manage your audience on Social Media.
 * [Someture](https://someture.com) - Search Accounts and Hashtags from Instagram.
 * [tailwind](https://www.tailwindapp.com/) - Tailwind is the social media scheduling tool that gets real results in less time.
 * [Tofo.me](https://tofo.me/) - The best Instagram Web Viewer.
